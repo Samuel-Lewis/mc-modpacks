@@ -625,98 +625,6 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
-file = "mods/.connector/antique-atlas-2.10.0+1.21_mapped_moj_1.21.1.jar"
-hash = "9200cb4e422cd365cbd0ebb979b829b6ad525c783baa1060c29854276b88994a"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.10.0+1.21_mapped_moj_1.21.1.jar.input"
-hash = "06440a03a86b328f3571d57242b1df1a633e0cb9de0db0f2cf88b52104d0ff23"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.10.0+1.21_mapped_moj_1.21.3.jar"
-hash = "9200cb4e422cd365cbd0ebb979b829b6ad525c783baa1060c29854276b88994a"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.10.0+1.21_mapped_moj_1.21.3.jar.input"
-hash = "06440a03a86b328f3571d57242b1df1a633e0cb9de0db0f2cf88b52104d0ff23"
-
-[[files]]
-file = "mods/.connector/patch_audit.txt"
-hash = "894031c9414569a71d4b44ca525c654d5d07f848afad79c2a3a57cbb025421e4"
-
-[[files]]
-file = "mods/.connector/splinecart-0.1+1.21_mapped_moj_1.21.1.jar"
-hash = "f152eab46b9df5715a8cc9b5e7aedb4622d08af060b67e812d4e2341c03811ac"
-
-[[files]]
-file = "mods/.connector/splinecart-0.1+1.21_mapped_moj_1.21.1.jar.input"
-hash = "ee5af7b515bb248febcb1b54dd2abc4356abdcfde4041e2bb8898e0f7e8fdcbd"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.24+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.1.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.24+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.1.jar.input"
-hash = "c06fbaf4c1b1f678dd22e1970097ce401ca230948d3cd8f44286927c356f6579"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.24+1.21_mapped_moj_1.21.1.jar"
-hash = "0fa16e9d13636d68a1540a81a34797bc7fb9a649011de57680dfeb8db4dbcd97"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.24+1.21_mapped_moj_1.21.1.jar.input"
-hash = "7405b9ca2985e67a171b7c8f71635b192ecbacf233321bf03b6efdc6f9854157"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.1.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.1.jar.input"
-hash = "0cc36e4c4ef410b684c204b56c1043c2d14f5645404d6d82a840203291f13711"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.3.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21$kaleido-config-0.3.1+1.3.2_mapped_moj_1.21.3.jar.input"
-hash = "0cc36e4c4ef410b684c204b56c1043c2d14f5645404d6d82a840203291f13711"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21_mapped_moj_1.21.1.jar"
-hash = "46b8c12c129f44cd5e2f5a73f252ffb05f76482fed6cdbce954d21d3cec0e540"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21_mapped_moj_1.21.1.jar.input"
-hash = "af058160b3952dba05908c75d49e37c441acb7d00c1bcdce44eb36fcd918d61d"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21_mapped_moj_1.21.3.jar"
-hash = "46b8c12c129f44cd5e2f5a73f252ffb05f76482fed6cdbce954d21d3cec0e540"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.25+1.21_mapped_moj_1.21.3.jar.input"
-hash = "af058160b3952dba05908c75d49e37c441acb7d00c1bcdce44eb36fcd918d61d"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.24+1.21$kaleido-config-0.3.1+1.3.2.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.24+1.21$kaleido-config-0.3.1+1.3.2.jar.input"
-hash = "c06fbaf4c1b1f678dd22e1970097ce401ca230948d3cd8f44286927c356f6579"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.25+1.21$kaleido-config-0.3.1+1.3.2.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.25+1.21$kaleido-config-0.3.1+1.3.2.jar.input"
-hash = "0cc36e4c4ef410b684c204b56c1043c2d14f5645404d6d82a840203291f13711"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -727,13 +635,13 @@ hash = "2a927b4361d09500f17075c2bd01e3b0c031bae9cd04c04472648ce3a621191f"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "23b005eaf484d5fac571c89fd8d1d557946456b81e541eacafba864b29ef5175"
-metafile = true
-
-[[files]]
 file = "mods/antique-atlas-2.10.0+1.21.jar"
 hash = "95cf1e7554ea910978652e323feb069e0726b5659c9bf7537fbe41ad93c8a1df"
+
+[[files]]
+file = "mods/antique-atlas-4.pw.toml"
+hash = "04dbaa565720c45dbbf9d6ed3f1c4df9ff641ec13503b91e9206d7d93c8fe89a"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -823,11 +731,6 @@ metafile = true
 [[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
-metafile = true
-
-[[files]]
-file = "mods/controlling.pw.toml"
-hash = "c2973bd62002607b48da49ac0ae473d6e720769bcac134622fcb631c93e34d57"
 metafile = true
 
 [[files]]
@@ -1035,6 +938,11 @@ file = "mods/scorched-1.1.4a.jar"
 hash = "652b6fbe40c7d6ca77bb055bcb601b601c6680531903340e4f187dc277feb299"
 
 [[files]]
+file = "mods/scorched.pw.toml"
+hash = "ee9f80e2894babfd878d8188697b99fc13a3c5220d5b630cec1f32c8e3aadd36"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "6c0fac550bb053ee2728144a28819835823dcc6d04ad7897750431fe55100e53"
 metafile = true
@@ -1089,6 +997,11 @@ file = "mods/splinecart-0.1+1.21.jar"
 hash = "32cc5610007f0d9a695b91059cb70f05b84861bb47eefb1f4b6b68d031dd67ac"
 
 [[files]]
+file = "mods/splinecart.pw.toml"
+hash = "9e66507052daadb675e3fe6645b27a5a5e91f7b09368ff820935a81f682b46a1"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "f8c38336cee6d22f61ec7414ed109e8552e0d3008ef0b9ad2ef66fa914675109"
 metafile = true
@@ -1096,6 +1009,11 @@ metafile = true
 [[files]]
 file = "mods/surveyor-0.6.25+1.21.jar"
 hash = "53b6c7972a001c35bb53f4336f40d799290739f5e25cb28995cf097ab379c03f"
+
+[[files]]
+file = "mods/surveyor.pw.toml"
+hash = "6505d339ca50473ec9d07849013d3da94b0b52f03ad5b851349262aa8ae312f0"
+metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
@@ -1140,6 +1058,11 @@ metafile = true
 [[files]]
 file = "mods/void-totem-3.jar"
 hash = "529bc6016cedcea187a8bae8392a9998d94c114074413b88e745a9c237e330c8"
+
+[[files]]
+file = "mods/void-totem.pw.toml"
+hash = "d7758954f0c6be6346f05001ca5533c58d98c4114906308b6c34e4f0db6bedf8"
+metafile = true
 
 [[files]]
 file = "mods/wits.pw.toml"
