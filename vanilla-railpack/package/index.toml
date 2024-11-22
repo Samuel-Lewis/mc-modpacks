@@ -625,6 +625,11 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "6d5b92847236d42e14e0a39e5a5cbda2c379666ed356858f9c3ef863e23dee06"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "571293a6ddb6b5ea7b9c1f5454d0cfc584a5aa50397942bea4906d3b54e02e02"
 metafile = true
@@ -633,10 +638,6 @@ metafile = true
 file = "mods/ambient-environment.pw.toml"
 hash = "2a927b4361d09500f17075c2bd01e3b0c031bae9cd04c04472648ce3a621191f"
 metafile = true
-
-[[files]]
-file = "mods/antique-atlas-2.10.0+1.21.jar"
-hash = "95cf1e7554ea910978652e323feb069e0726b5659c9bf7537fbe41ad93c8a1df"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
@@ -661,11 +662,6 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "a21c5304f1530851d10f5fd9180f0d5c749409977338c06dea12782cc24cea7d"
 metafile = true
 
 [[files]]
@@ -969,10 +965,6 @@ hash = "ee9e98bc3dbaf9450f972dfe02ac566d431e1bc0d6cf562c06dac759df850511"
 metafile = true
 
 [[files]]
-file = "mods/scorched-1.1.4a.jar"
-hash = "652b6fbe40c7d6ca77bb055bcb601b601c6680531903340e4f187dc277feb299"
-
-[[files]]
 file = "mods/scorched.pw.toml"
 hash = "ee9f80e2894babfd878d8188697b99fc13a3c5220d5b630cec1f32c8e3aadd36"
 metafile = true
@@ -1033,10 +1025,6 @@ hash = "726dd81c3e660473716fb109264d76cf9386cf645a79d436e327ff86400b655b"
 metafile = true
 
 [[files]]
-file = "mods/splinecart-0.1+1.21.jar"
-hash = "32cc5610007f0d9a695b91059cb70f05b84861bb47eefb1f4b6b68d031dd67ac"
-
-[[files]]
 file = "mods/splinecart.pw.toml"
 hash = "9e66507052daadb675e3fe6645b27a5a5e91f7b09368ff820935a81f682b46a1"
 metafile = true
@@ -1045,10 +1033,6 @@ metafile = true
 file = "mods/stack-refill.pw.toml"
 hash = "f8c38336cee6d22f61ec7414ed109e8552e0d3008ef0b9ad2ef66fa914675109"
 metafile = true
-
-[[files]]
-file = "mods/surveyor-0.6.25+1.21.jar"
-hash = "53b6c7972a001c35bb53f4336f40d799290739f5e25cb28995cf097ab379c03f"
 
 [[files]]
 file = "mods/surveyor.pw.toml"
@@ -1094,10 +1078,6 @@ metafile = true
 file = "mods/visual-workbench.pw.toml"
 hash = "ae2865cf87e79f155c35f971cc39934b805c2fc13c7d0659ae0db696491e786b"
 metafile = true
-
-[[files]]
-file = "mods/void-totem-3.jar"
-hash = "529bc6016cedcea187a8bae8392a9998d94c114074413b88e745a9c237e330c8"
 
 [[files]]
 file = "mods/void-totem.pw.toml"
