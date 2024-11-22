@@ -751,11 +751,6 @@ hash = "22ac98f77c0773acde1947b85ce671dad02a6a759d04d1dda97ada4ae5896e4c"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "d58e02fd901943506422b03463b6116c1ebcb27204e369f4e9551218a5ba4c1a"
-metafile = true
-
-[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "a21c5304f1530851d10f5fd9180f0d5c749409977338c06dea12782cc24cea7d"
 metafile = true
@@ -851,11 +846,6 @@ hash = "1dc3ed614d1be444f0ed687ab40168437cef77f25a9ebfbdd2ac250de6da3d87"
 metafile = true
 
 [[files]]
-file = "mods/distant-horizons.pw.toml"
-hash = "a37c59c54ac3eac2278807c8bc74d8d994dd65aee38c60edb4ad58db88397795"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "66c076b0fa7ff29d1b4094f4964add34f3e337bc602d9e62b5c8beed3ab31f4f"
 metafile = true
@@ -878,26 +868,6 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "1dffb7b72d41c7457849c09715e662ae3aebcef1988ce8f6fc060c46170b1a4a"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "c51b70668ec45bf832b36c0de7589d6b8cd7b25db46ce1a804909378af62e248"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "e3741bfe558e18106b4b1aacd07bd5221333ba9a46b354d0711c8185c10c629e"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "96ca2484a963465407f1c4066fe3a1fd7e7f595e83abf1d2b0c4f6c48a246267"
-metafile = true
-
-[[files]]
-file = "mods/esf-entity-sound-features.pw.toml"
-hash = "ecbc58c67c54d2950fd4e06c4995166511513b43afa3049bbe7d6c60d4982204"
 metafile = true
 
 [[files]]
@@ -988,11 +958,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d99394f1fe59ef340c0ea6e46370acba5e4c2c60a77721832316652e46d816f6"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
 metafile = true
 
 [[files]]
@@ -1095,11 +1060,6 @@ hash = "81c0aa8bca94b0d4c8692f961398f8d5f1c2843e52f65cff2bba01adff1251d7"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "f8dbfb761495bbdbf9d30454928c586ff90a1fbe903743bd25eb3fcd94adbefd"
-metafile = true
-
-[[files]]
 file = "mods/sky-villages-forge.pw.toml"
 hash = "49293cb0b33f4acd9b12a1ea953532821d001040f5f5010a4de7b5c461d1214c"
 metafile = true
@@ -1122,11 +1082,6 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "f946d3dead51db531ca301e01b0decd69c8f6d6aa591b98cb20af95366606823"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "198c34f25d1edb3c2f1d5dfdc9f0ae7a4eacc43831c9d4f337c07de4cf208d8a"
 metafile = true
 
 [[files]]
