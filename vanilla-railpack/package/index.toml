@@ -659,6 +659,11 @@ hash = "22ac98f77c0773acde1947b85ce671dad02a6a759d04d1dda97ada4ae5896e4c"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "a21c5304f1530851d10f5fd9180f0d5c749409977338c06dea12782cc24cea7d"
 metafile = true
@@ -749,6 +754,11 @@ hash = "1dc3ed614d1be444f0ed687ab40168437cef77f25a9ebfbdd2ac250de6da3d87"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "e25f8d5bbea8e14e71fc686644c34f588b97e8e655286101e92824fb547c798d"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "66c076b0fa7ff29d1b4094f4964add34f3e337bc602d9e62b5c8beed3ab31f4f"
 metafile = true
@@ -771,6 +781,26 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "1dffb7b72d41c7457849c09715e662ae3aebcef1988ce8f6fc060c46170b1a4a"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e7341f1b4a443496f891569d30876bdb75b228f714feaf310a3aa828ac241c72"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "5a2740df26c992175276b8d2d1ebe7efd10ef864308c342e9168a18a76326705"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "265401deee25a3f254ea0c084f14d1e48086231e3f115eec8b60e00fdb0812d2"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "fdfff11b4cf4a475d3f0c3204e7f955bf318df6ab3f86d131a80253af95a7df4"
 metafile = true
 
 [[files]]
@@ -861,6 +891,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "d99394f1fe59ef340c0ea6e46370acba5e4c2c60a77721832316652e46d816f6"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
@@ -990,6 +1025,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "f946d3dead51db531ca301e01b0decd69c8f6d6aa591b98cb20af95366606823"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "726dd81c3e660473716fb109264d76cf9386cf645a79d436e327ff86400b655b"
 metafile = true
 
 [[files]]
