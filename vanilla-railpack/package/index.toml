@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "28c60d6b0a67a9d86de909d7e92d381b9c40fcf4958517b3eb6a317574250007"
+hash = "eaeac0796672c98e2940921b0befbd35f19e2ddb2a1b997da814b4fbc9a98d3a"
 metafile = true
 
 [[files]]
@@ -1006,7 +1006,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "910e442e6179e4fb2e4a4112b0f66641045fff889027e73fca249b040a3f261f"
+hash = "2e79579e6500ad776bceca59ee6d6d8cc6f6e8ffe8dc96597d01201f89be9c8d"
 metafile = true
 
 [[files]]
