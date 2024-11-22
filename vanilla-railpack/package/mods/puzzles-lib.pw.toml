@@ -1,0 +1,13 @@
+name = "Puzzles Lib [Forge & Fabric]"
+filename = "PuzzlesLib-v21.1.22-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58bd22f132b1285680b4316c8270b39af507b6c2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5838627
+project-id = 495476

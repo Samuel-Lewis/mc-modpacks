@@ -1,0 +1,13 @@
+name = "Tax Free Levels (Fabric/(Neo)Forge)"
+filename = "TaxFreeLevels-1.4.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ba30f408740994cbb194d1bf2f19dd46eda596e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5812008
+project-id = 462128

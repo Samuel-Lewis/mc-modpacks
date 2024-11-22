@@ -1,0 +1,13 @@
+name = "Trade Cycling"
+filename = "trade-cycling-neoforge-1.21.1-1.0.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "021fb961ae9845dd5c6d55133637ee7a12851983"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5793980
+project-id = 570431

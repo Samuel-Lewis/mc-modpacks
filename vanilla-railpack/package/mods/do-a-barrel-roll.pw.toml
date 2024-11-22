@@ -1,0 +1,13 @@
+name = "Do a Barrel Roll"
+filename = "do_a_barrel_roll-neoforge-3.7.2+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2175705c1067372a394972db186c4a553ca78c4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5805327
+project-id = 663658

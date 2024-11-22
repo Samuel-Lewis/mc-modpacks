@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-1.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71178777d1b47be414a5a3bfd579ac2c17e2aaa1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5696954
+project-id = 488090

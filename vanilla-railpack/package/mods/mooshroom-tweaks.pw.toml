@@ -1,0 +1,13 @@
+name = "Mooshroom Tweaks"
+filename = "mooshroomtweaks-1.21.1-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b33eac17a35c7e852b1934c56168623c7646878"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5609588
+project-id = 324553

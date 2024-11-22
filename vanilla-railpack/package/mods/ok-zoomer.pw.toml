@@ -1,0 +1,13 @@
+name = "Ok Zoomer - It's Zoom!"
+filename = "ok_zoomer-neo-10.0.0-beta.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "91b0ee238a5f49e02732ffaa27c88ad5ed8f31d2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5883512
+project-id = 354047
