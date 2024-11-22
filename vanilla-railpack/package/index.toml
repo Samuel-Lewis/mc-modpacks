@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "mods/autotools.pw.toml"
-hash = "22ac98f77c0773acde1947b85ce671dad02a6a759d04d1dda97ada4ae5896e4c"
+hash = "c3b89b3a026aea46113b86532d35260635e13a7d4fb3d46d44704ec41e592b67"
 metafile = true
 
 [[files]]
@@ -681,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/cat_jam.pw.toml"
-hash = "1a66ac7990f8ca47401383bdbaa33003be8928c12e501f33b42279cb76d2613e"
+hash = "b241d3e079220375ca7da148a070b5c08e8e3fff9097f628c843f36e6f37ef5d"
 metafile = true
 
 [[files]]
