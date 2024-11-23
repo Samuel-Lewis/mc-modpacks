@@ -398,7 +398,7 @@ hash = "d9e247d4b521ec10f5c9719e67afceb7de7a70eeaa1ebdb4674384c31c75a711"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "1b2cd8eaee5b7ec9268e65324ae438dc9502794ff07f21e9fac68401fcb5aa13"
+hash = "7eaecb6528c740b4045fad7bfc66f82d56d0f5bf0239d48bbf8e5acdd0708e47"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
