@@ -655,11 +655,6 @@ hash = "42270879c65390a39b9c8c0a6690bd2f01f756ad89a09a0de7bcc57633c5400a"
 metafile = true
 
 [[files]]
-file = "mods/autotools.pw.toml"
-hash = "c3b89b3a026aea46113b86532d35260635e13a7d4fb3d46d44704ec41e592b67"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
@@ -677,11 +672,6 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "2b4c244aa7a303dead0a1b659c25b9b9bce2ced2758ea55aca347556f7348189"
-metafile = true
-
-[[files]]
-file = "mods/cat_jam.pw.toml"
-hash = "b241d3e079220375ca7da148a070b5c08e8e3fff9097f628c843f36e6f37ef5d"
 metafile = true
 
 [[files]]
