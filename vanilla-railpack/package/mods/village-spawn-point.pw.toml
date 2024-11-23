@@ -1,13 +1,13 @@
 name = "Village Spawn Point"
 filename = "villagespawnpoint-1.21.1-4.4.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "6943c14d671c82eb3bb3357c8f84dc150a6b9670"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/KplTt9Ku/versions/Vl3DreYU/villagespawnpoint-1.21.1-4.4.jar"
+hash-format = "sha512"
+hash = "88f3a1e224f17d3493a193d96e71fe9325a0df720d58301c88273cb89fcc00a58cc8d89fb5d4d7e6d79f90d91ad5859cc704c8438603fb8b6899345c969c02b6"
 
 [update]
-[update.curseforge]
-file-id = 5609376
-project-id = 347381
+[update.modrinth]
+mod-id = "KplTt9Ku"
+version = "Vl3DreYU"

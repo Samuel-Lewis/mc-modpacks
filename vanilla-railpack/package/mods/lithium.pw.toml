@@ -1,13 +1,13 @@
-name = "Lithium (Fabric/NeoForge)"
+name = "Lithium"
 filename = "lithium-neoforge-0.14.2-snapshot+mc1.21.1-build.90.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e72f983955c36f6c3e2ccd09d41659310241344a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/KhdehJ6l/lithium-neoforge-0.14.2-snapshot%2Bmc1.21.1-build.90.jar"
+hash-format = "sha512"
+hash = "c766ab0a10d5c00340c50f4aba31f9db2928de6bd2c42f83b0f289336b198c53effad883423ef56adfa01825b20673e153aa8d0b6ad9e6e06a68b0fcc5f01b44"
 
 [update]
-[update.curseforge]
-file-id = 5909375
-project-id = 360438
+[update.modrinth]
+mod-id = "gvQqBUqZ"
+version = "KhdehJ6l"

@@ -3,11 +3,11 @@ filename = "Ping-Wheel-1.10.0-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "ca8c24e664333fc774bed2b3df8673dfdf5e37b3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/zF0Ekjjv/Ping-Wheel-1.10.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "7214d913148cdf3bc9ad969f9a8c3b886224bca2452df6abbda998e95cafa8064c355f2508d7e13ec5744a8ca69fe9738c02821d7a5702672d0a40583c9fd4f3"
 
 [update]
-[update.curseforge]
-file-id = 5858080
-project-id = 734339
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "zF0Ekjjv"

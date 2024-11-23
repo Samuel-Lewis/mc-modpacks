@@ -3,11 +3,11 @@ filename = "thornybushprotection-1.21.1-1.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1f660662243dbadb4cf582a7f696522dede20868"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/hYGSXIE7/versions/7pIaJBL2/thornybushprotection-1.21.1-1.4.jar"
+hash-format = "sha512"
+hash = "d4fc50fb53995b4e7715a8ee7184f9b0332e9f17ff6b5a405679808e367d000af5b7bd8c458e8082edbe36365f5a0b6ef76851d3f4981ee6ddd058c4054137fb"
 
 [update]
-[update.curseforge]
-file-id = 5609408
-project-id = 950546
+[update.modrinth]
+mod-id = "hYGSXIE7"
+version = "7pIaJBL2"

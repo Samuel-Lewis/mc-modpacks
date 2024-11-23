@@ -3,11 +3,11 @@ filename = "railcraft-reborn-1.21.1-1.2.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e934660b544c57ec337fa92f7e3ba7e6fcd52180"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/rO6kKst6/versions/osBNeNX5/railcraft-reborn-1.21.1-1.2.4.jar"
+hash-format = "sha512"
+hash = "6e821d8be45c4445dd91f07486d86603a79eab068955f92b1a6822283f1b840bd8f82194270a4303e75b65cc5488b1fb9a15c2fdac5e04060ebe8b8c0ded59ca"
 
 [update]
-[update.curseforge]
-file-id = 5898120
-project-id = 901491
+[update.modrinth]
+mod-id = "rO6kKst6"
+version = "osBNeNX5"

@@ -3,11 +3,11 @@ filename = "stackrefill-1.21.1-4.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "24b2fed532aeeffe1cdd2f91f7a472e6196951f5"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/mQWkB9ON/versions/XkihrYZR/stackrefill-1.21.1-4.5.jar"
+hash-format = "sha512"
+hash = "bbc274eb0b521f9b9448d79a8f9b206e2ebf1f6f939765aac5bcf877e1fa890b11af66b5e948b37a07d96d1b2b348c60a72dc0c3fc0b709a55e3522d39bc1f91"
 
 [update]
-[update.curseforge]
-file-id = 5609428
-project-id = 411813
+[update.modrinth]
+mod-id = "mQWkB9ON"
+version = "XkihrYZR"

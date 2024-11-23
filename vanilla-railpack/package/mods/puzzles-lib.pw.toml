@@ -1,13 +1,13 @@
-name = "Puzzles Lib [Forge & Fabric]"
+name = "Puzzles Lib"
 filename = "PuzzlesLib-v21.1.22-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "58bd22f132b1285680b4316c8270b39af507b6c2"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/QAGBst4M/versions/y2hCHcY2/PuzzlesLib-v21.1.22-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "3f0a8756c37678acf83b427ee56ff791196c745d250caa8dba0329d8837aada9a64e10810ecf2ac5420397c41b9b861bc59d870f9c21ceca8412c7694cdc9b4f"
 
 [update]
-[update.curseforge]
-file-id = 5838627
-project-id = 495476
+[update.modrinth]
+mod-id = "QAGBst4M"
+version = "y2hCHcY2"

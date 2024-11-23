@@ -3,11 +3,11 @@ filename = "notenoughanimations-neoforge-1.8.1-mc1.21.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "1e69c70acccc840b052dadb2b0f3b875a0225c25"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/WFlfrDPJ/notenoughanimations-neoforge-1.8.1-mc1.21.jar"
+hash-format = "sha512"
+hash = "ea3719cc090b255c3c550a55a0c79a5978a5309a4d97df45db57dc30682043ce230e48ba13d8a2adc8d80e578d02e96d4b0695c872e6ed6332c7fcce6ca53ec8"
 
 [update]
-[update.curseforge]
-file-id = 5895051
-project-id = 433760
+[update.modrinth]
+mod-id = "MPCX6s5C"
+version = "WFlfrDPJ"

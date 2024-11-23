@@ -3,11 +3,11 @@ filename = "noanimaltemptdelay-1.21.1-1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2cb906d108769588b004128fa9a2453ad0437d68"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/7YM5AXYm/versions/NA7TkDk6/noanimaltemptdelay-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "e825784ca40d91ffe5e6cf99a28f9951c6b2aa84f37ebbb613cbebccc86bee8d450f635f459f13b4ce168a3059aa6ae2c6df3265615541c13a246252a904e77c"
 
 [update]
-[update.curseforge]
-file-id = 5609572
-project-id = 952356
+[update.modrinth]
+mod-id = "7YM5AXYm"
+version = "NA7TkDk6"

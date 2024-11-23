@@ -3,11 +3,11 @@ filename = "CreativeCore_NEOFORGE_v2.12.22_mc1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8061456b46dc93d14570ae2c220016084026e19a"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/YvlODebm/CreativeCore_NEOFORGE_v2.12.22_mc1.21.1.jar"
+hash-format = "sha512"
+hash = "c8535ad0f095f5d0470272e796d5a19fa551b838c36cd0be019c2e758d0c0cd803079d07784f1e2c0ca8990874eae419b18cf21555ea2af9c1ff52e64e64c151"
 
 [update]
-[update.curseforge]
-file-id = 5880278
-project-id = 257814
+[update.modrinth]
+mod-id = "OsZiaDHq"
+version = "YvlODebm"

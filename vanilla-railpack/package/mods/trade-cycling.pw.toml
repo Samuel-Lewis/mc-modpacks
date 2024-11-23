@@ -3,11 +3,11 @@ filename = "trade-cycling-neoforge-1.21.1-1.0.15.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "021fb961ae9845dd5c6d55133637ee7a12851983"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/qpPoAL6m/versions/FoKzuay2/trade-cycling-neoforge-1.21.1-1.0.15.jar"
+hash-format = "sha512"
+hash = "1278426e1bd23e86c5e2b68bb898463438dc189122a248d9f4509670423ecb5d170570e43d4e7b3901a4bc633c55090afdfefd5e8e97e67282266a8cf0b22232"
 
 [update]
-[update.curseforge]
-file-id = 5793980
-project-id = 570431
+[update.modrinth]
+mod-id = "qpPoAL6m"
+version = "FoKzuay2"

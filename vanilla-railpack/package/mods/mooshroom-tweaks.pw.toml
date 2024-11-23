@@ -1,13 +1,13 @@
 name = "Mooshroom Tweaks"
 filename = "mooshroomtweaks-1.21.1-3.5.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "4b33eac17a35c7e852b1934c56168623c7646878"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/B10lMHiA/versions/L5ES0PjX/mooshroomtweaks-1.21.1-3.5.jar"
+hash-format = "sha512"
+hash = "8125d4e45186b059caeaf883b0024a330d63f065b148f56d1f33c2652049663c2c4ea1a36ea73f35a4143e00a86db52c8d5e90f4d668042a224c339edc60591a"
 
 [update]
-[update.curseforge]
-file-id = 5609588
-project-id = 324553
+[update.modrinth]
+mod-id = "B10lMHiA"
+version = "L5ES0PjX"

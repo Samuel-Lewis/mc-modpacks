@@ -3,11 +3,11 @@ filename = "floralis-17.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "9d082b3b730ac80ff62b7dc21295f50a30320b54"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1Nde79GO/versions/Yx82UhBz/floralis-17.0.0.jar"
+hash-format = "sha512"
+hash = "31e9653e70514e3a1182876d2eb4dd27ad6ee09a23e695e49085b225ee8650ccfb7e7eca812d54dff6d9862196ec66148af815622ce0fca8022ab7bf8279e3d0"
 
 [update]
-[update.curseforge]
-file-id = 5765019
-project-id = 458358
+[update.modrinth]
+mod-id = "1Nde79GO"
+version = "Yx82UhBz"

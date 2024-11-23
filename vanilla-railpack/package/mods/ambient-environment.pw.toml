@@ -1,13 +1,13 @@
 name = "Ambient Environment"
 filename = "AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "3a00ec1170b38e75a502dcc46038397f8fd9b305"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/N7jam3SN/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar"
+hash-format = "sha512"
+hash = "aad91081e677097847ad847463717fdb77abf32a1a27176b019fa919ba505a3ab01b6d06c30d63da800a0b5b490be3cf5a7cf80f2193b6a8394a4249ba2cfeaa"
 
 [update]
-[update.curseforge]
-file-id = 5799489
-project-id = 320163
+[update.modrinth]
+mod-id = "DyTvM1dv"
+version = "N7jam3SN"

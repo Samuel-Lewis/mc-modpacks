@@ -1,13 +1,13 @@
 name = "RightClickHarvest"
 filename = "rightclickharvest-neoforge-4.4.3+1.21.1.jar"
-side = "both"
+side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "a6e19b7b96dd3242348f9eb468fe8b4129ded986"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Cnejf5xM/versions/LB2hxSyJ/rightclickharvest-neoforge-4.4.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b787907b22fec72face2df3d209d12b3568a2130968ef2da890559b58a6a9256ee82cf12069c8cd40e4de68f789534cb5a6022dfa19d6da54db4b8e2bdd9e90c"
 
 [update]
-[update.curseforge]
-file-id = 5875092
-project-id = 452834
+[update.modrinth]
+mod-id = "Cnejf5xM"
+version = "LB2hxSyJ"

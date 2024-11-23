@@ -3,11 +3,11 @@ filename = "CutThrough-v21.1.0-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "550f272c140566f0961c1bb3fdfb1a6272be30dd"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Dk6su9JN/versions/5P5tLHSh/CutThrough-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "e6313fe2c2fb8b5131b39bf8ae105e5120630b78d713db5a573c6830a476868beee3f38aa4da7c29779214b7690af83ca0ce9036d1f757a54c2352e0748cd256"
 
 [update]
-[update.curseforge]
-file-id = 5731913
-project-id = 969423
+[update.modrinth]
+mod-id = "Dk6su9JN"
+version = "5P5tLHSh"

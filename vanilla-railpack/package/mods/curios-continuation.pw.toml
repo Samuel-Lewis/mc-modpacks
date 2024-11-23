@@ -3,11 +3,11 @@ filename = "curios-neoforge-9.0.15+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "0b05c0662b08e7541b1e303d6cd214dee56fed0f"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/BaqCltvf/versions/WnSvqCaY/curios-neoforge-9.0.15%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "9921b5be8da8edd236262e2419826e784fe3741f9d98e861a5f2a783bdc279d86b6fcec4fcb6ed9b7af7cb71cfd2d9ae588cc628a1d4fd81a8508c082e8540b5"
 
 [update]
-[update.curseforge]
-file-id = 5888964
-project-id = 1037991
+[update.modrinth]
+mod-id = "BaqCltvf"
+version = "WnSvqCaY"

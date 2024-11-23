@@ -3,11 +3,11 @@ filename = "do_a_barrel_roll-neoforge-3.7.2+1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b2175705c1067372a394972db186c4a553ca78c4"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6FtRfnLg/versions/y8jv7s49/do_a_barrel_roll-neoforge-3.7.2%2B1.21.jar"
+hash-format = "sha512"
+hash = "229b1b300904e0bc35e42002d19d99d0f16e36a2a3d36bbac4c113f74e2df3a9fe1f9159ea7023f6d7fb3680fa6d42b3a28d9ab5843ead0c2f6fc050c26e308e"
 
 [update]
-[update.curseforge]
-file-id = 5805327
-project-id = 663658
+[update.modrinth]
+mod-id = "6FtRfnLg"
+version = "y8jv7s49"

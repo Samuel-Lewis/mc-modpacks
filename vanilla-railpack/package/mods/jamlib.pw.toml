@@ -3,11 +3,11 @@ filename = "jamlib-neoforge-1.2.2+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "35df996a532b9276b0d563656fd744e993962136"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/IYY9Siz8/versions/phAG7F4U/jamlib-neoforge-1.2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "24f8ae567ce56b247f3e7a4d7a677d85410228cc3d52ad1a5057081437c286a706023a3355ee36474c376fd41985159f0817cce01cca3e50a5a8a40afb587b20"
 
 [update]
-[update.curseforge]
-file-id = 5841944
-project-id = 623764
+[update.modrinth]
+mod-id = "IYY9Siz8"
+version = "phAG7F4U"
