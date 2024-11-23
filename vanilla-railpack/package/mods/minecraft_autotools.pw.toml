@@ -1,0 +1,13 @@
+name = "AutoTools"
+filename = "autotools-1.21.1-neoforge-2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgVJyCgK/versions/IdhP811h/autotools-1.21.1-neoforge-2.2.jar"
+hash-format = "sha512"
+hash = "d72c409ab2ec738c9e305c37bb3b9ed91ff2f1bd27ae5d666739532a71c7264633ca244c2913075c9702c01c3a95b54240508a1129f0daf466c2861834486594"
+
+[update]
+[update.modrinth]
+mod-id = "zgVJyCgK"
+version = "IdhP811h"

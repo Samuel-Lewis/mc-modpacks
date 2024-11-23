@@ -671,6 +671,11 @@ hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
 metafile = true
 
 [[files]]
+file = "mods/cat_jam.pw.toml"
+hash = "c5adc29c7b5aa88587ab54f39d654216bb087e767727a182a4bf44f98228ba5c"
+metafile = true
+
+[[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "50e19022a70cbcc0b53a1c06ddef451afd9908000d5788944822be3443e49902"
 metafile = true
@@ -853,6 +858,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "3670f7011204413b9f982500a1146e9914f87340d31c2ff5d6c69ef24b10d16c"
+metafile = true
+
+[[files]]
+file = "mods/minecraft_autotools.pw.toml"
+hash = "7493ee21742ad2e9ae24ca39b42b02a661bb4a78f41999f5febb82faf937e1eb"
 metafile = true
 
 [[files]]
