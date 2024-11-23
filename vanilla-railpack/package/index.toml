@@ -533,10 +533,6 @@ file = "config/shulkerdropstwo.json5"
 hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
 
 [[files]]
-file = "config/skinlayers.json"
-hash = "6938dedbced0a6bb0ef345264f8df432b6db8b759f6614b32bae655ca72e131d"
-
-[[files]]
 file = "config/smarterfarmers-common.toml"
 hash = "3cf29619de9082bd57e1c62a11ef2189bc5840623199028f2711c6d698ea29bd"
 
@@ -623,11 +619,6 @@ hash = "118dee28250b68612c3e4b4913a11f39a55ddf56be30b4eee6306bcf4d27713c"
 [[files]]
 file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
-
-[[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "6d5b92847236d42e14e0a39e5a5cbda2c379666ed356858f9c3ef863e23dee06"
-metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
