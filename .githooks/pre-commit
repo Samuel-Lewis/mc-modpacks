@@ -1,18 +1,26 @@
 #!/usr/bin/env bash
 
-if ! command -v packwiz 2>&1 >/dev/null
-then
-    echo "packwiz command not found, skipping packwiz refresh"
-    exit 0
-fi
+main() {
+    if ! command -v packwiz 2>&1 >/dev/null
+    then
+        echo "packwiz command not found, skipping packwiz refresh"
+        exit 0
+    fi
 
-git stash --keep-index --include-untracked --quiet
-trap "git stash pop --quiet" EXIT
+    git stash --keep-index --include-untracked --quiet
+    if ! [ "$(git stash list)" = "" ]
+    then
+        # pop the stash entry we just added, if we made one
+        trap "git stash pop --quiet" EXIT
+    fi
 
-for package in */package
-do
-    pushd "$package"
-    packwiz refresh
-    git add {index,pack}.toml
-    popd
-done
+    for package in */package
+    do
+        pushd "$package"
+        packwiz refresh
+        git add {index,pack}.toml
+        popd
+    done
+}
+
+main
