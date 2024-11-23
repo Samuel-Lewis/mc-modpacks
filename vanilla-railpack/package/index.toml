@@ -691,11 +691,6 @@ hash = "9ef3e2ac7759b165f2374606fee70583492e0bea4341e918dc323a7272d0d6a4"
 metafile = true
 
 [[files]]
-file = "mods/clientsort.pw.toml"
-hash = "2146f8e3fb866b92b47072034f68994a6fd30b87fe928655163d720e35ad3b04"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -831,6 +826,11 @@ hash = "bd264adb9535a7db851a9557233aebbcb38c27be17f87e583f370ee7b87bf440"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "3414dbd50b5255d006908962e1be60f1f97f52921705533e6fe591c39d850581"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "b1b5383d51555d810b04cc0520a91c2b05463ea85e3a21c054af7292bb505d83"
 metafile = true
@@ -846,8 +846,18 @@ hash = "25f01bc84d67849927c2fd16c329bfdca3e5ca749435e68a4d24e4e228189409"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "39ae423100c90ae989147b69e10b0f0a9c1dc934a986ba106f12f6362e252336"
+metafile = true
+
+[[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "d3d88ec654586f9258bffd7739d4016ddd06f9a0afb343adb0484f10d1a83584"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "3739796c95cfb670cbf3e41adc24d6776c918624d1fcd77576a570aff18c73b7"
 metafile = true
 
 [[files]]
