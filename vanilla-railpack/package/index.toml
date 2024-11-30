@@ -477,10 +477,6 @@ file = "config/neoforge-server.toml"
 hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 
 [[files]]
-file = "config/nohostilesaroundcampfire.json5"
-hash = "cebde49131e12fe47bfa14f4dd334f7367a79403207017c9d8c7c6d5e7c44d1b"
-
-[[files]]
 file = "config/notenoughanimations.json"
 hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
@@ -910,11 +906,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
-metafile = true
-
-[[files]]
-file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "bb6389f9b2e3a4514cea000d40fc18f3260d881306d2c5eadbc8bee9705770e6"
 metafile = true
 
 [[files]]
