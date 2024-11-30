@@ -1,6 +1,6 @@
 name = "Roughly Enough Items (REI)"
 filename = "RoughlyEnoughItems-16.0.788-neoforge.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nfn13YXA/versions/lZgX5u2n/RoughlyEnoughItems-16.0.788-neoforge.jar"

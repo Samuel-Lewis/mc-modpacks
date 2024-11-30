@@ -959,7 +959,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "0327e73217197e9f5d68d0b373429dc5497b277c49611c653be8f6ab191f5262"
+hash = "de078d6fd6f6f9112b7b542a06eda0b8414a70cbad5b7499a12ac27b14626879"
 metafile = true
 
 [[files]]
