@@ -1014,6 +1014,11 @@ hash = "726dd81c3e660473716fb109264d76cf9386cf645a79d436e327ff86400b655b"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "515ccee1b6111ad213d832d5a7e266d126002a5fe65b072e4e0594afa3b3b55e"
+metafile = true
+
+[[files]]
 file = "mods/splinecart.pw.toml"
 hash = "9e66507052daadb675e3fe6645b27a5a5e91f7b09368ff820935a81f682b46a1"
 metafile = true
