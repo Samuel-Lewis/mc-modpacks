@@ -482,7 +482,7 @@ hash = "f734f35399f949a79b29328d6d0398027a5e5c4f5ffa15f35a44c8054b54da34"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
-hash = "a2331a9265c18dbdae8ca28b42e52c8b486e8d4aa161016793ae4a9727eb169f"
+hash = "55220893bfdbb284738b166047901b33902759c138e1d702776f0f80a538a0af"
 
 [[files]]
 file = "config/passiveshield.json5"
