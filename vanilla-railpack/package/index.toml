@@ -699,11 +699,6 @@ hash = "97fc734f4cae192b1098173966dcaf66e8e65c0f25d3fb3a57031384927250e8"
 metafile = true
 
 [[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "ae98eee6f1484bc9cd40f377120e1a96224a7c0e7c6bfc23e30b26bc8fef2865"
-metafile = true
-
-[[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "13074baf97c5f56c07d24fe9244ba5599c6e77623aa43079931346b0ff854473"
 metafile = true
@@ -941,11 +936,6 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "d73685115d6a7afe90e1f577aad9fa6546d74fb4e12c5780f8bf585611991e73"
-metafile = true
-
-[[files]]
-file = "mods/playeranimator.pw.toml"
-hash = "216b634d4cfae096c106b1414706876190a90a30b165d6b4327ad39f6a59b65d"
 metafile = true
 
 [[files]]
