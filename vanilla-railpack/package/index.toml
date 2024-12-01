@@ -639,6 +639,11 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "6d7031c02a58468cd6ceeaf116c65805fb8ccb8c0992336be8e1e9e79394ba6d"
+metafile = true
+
+[[files]]
 file = "mods/bartering-station.pw.toml"
 hash = "89d5086e2383c436bcedadc91aff9d69ec6a59d2bacbbba6b5d59e2d74576a69"
 metafile = true
@@ -646,6 +651,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
+file = "mods/bocchud.pw.toml"
+hash = "e3d2809de57a92d799395b15f5c8e894d7c5f8728d26e9f8dac6f64bfc3dbd34"
 metafile = true
 
 [[files]]
@@ -861,6 +871,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "3670f7011204413b9f982500a1146e9914f87340d31c2ff5d6c69ef24b10d16c"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "cf784e170fc3e6fee98ff92ff2ba2a6fde543f1aab96062a24eea330ef690fff"
 metafile = true
 
 [[files]]
