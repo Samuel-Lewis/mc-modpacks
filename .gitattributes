@@ -1,2 +1,11 @@
 # Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
 * text=auto
+
+*.toml text eol=lf
+*.json text eol=lf
+*.json5 text eol=lf
+*.properties text eol=lf
+*.md text eol=lf
+*.cfg text eol=lf
+
+*/package/config/* text=auto eol=lf
