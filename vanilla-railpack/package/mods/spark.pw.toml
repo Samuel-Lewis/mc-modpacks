@@ -1,6 +1,6 @@
 name = "spark"
 filename = "spark-1.10.109-neoforge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/l6YH9Als/versions/jg1XqG66/spark-1.10.109-neoforge.jar"
