@@ -462,7 +462,7 @@ hash = "52155f5707537443156b47499d98b96dcdbf48ad0ed4ce8cfdf53cef7ffb8a9c"
 
 [[files]]
 file = "config/naturescompass-common.toml"
-hash = "32701692ec2ede22f3aef544cf75db3b611ce15c52188b74d886ce1c459be58e"
+hash = "03e05b0859c393358f2b89af98c85a71cffbef8182c49abe4718174226b778fa"
 
 [[files]]
 file = "config/neoforge-client.toml"
